@@ -1,10 +1,10 @@
-# Project Title
-> **Art.Ificial @ UCLA** · *Quarter Year*
-> A creative technology project developed as part of the Art.Ificial UCLA project track.
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6ea6fdb9-3942-4367-bfa4-c10525bb8834" alt="artifical_ucla_cover" width="100%" />
 </p>
+
+# Project Title
+> **Art.Ificial @ UCLA** · *Quarter Year*
+> A creative technology project developed as part of the Art.Ificial UCLA project track.
 
 ---
 
